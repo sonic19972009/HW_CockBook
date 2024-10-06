@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95bc260a-f1e1-4797-b2c6-5aab59f573f9" name="Changes" comment="1.Dict" />
+    <list default="true" id="95bc260a-f1e1-4797-b2c6-5aab59f573f9" name="Changes" comment="2.Shop List">
+      <change beforePath="$PROJECT_DIR$/cookbook.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +70,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728212433620</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2.Shop List">
+      <option name="closed" value="true" />
+      <created>1728212643969</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728212643969</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +95,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="1.Dict" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.Dict" />
+    <MESSAGE value="2.Shop List" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.Shop List" />
   </component>
 </project>
