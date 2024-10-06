@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95bc260a-f1e1-4797-b2c6-5aab59f573f9" name="Changes" comment="2.Shop List">
+    <list default="true" id="95bc260a-f1e1-4797-b2c6-5aab59f573f9" name="Changes" comment="3.Merger">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cookbook.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/result.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sonic19972009"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sonic19972009/HW_CockBook.git",
+    "accountId": "36e00b26-6e44-4457-aa4e-1620796a82ef"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -33,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.123.executor": "Run",
     "Python.cookbook.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
@@ -78,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728212643969</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3.Merger">
+      <option name="closed" value="true" />
+      <created>1728213340004</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728213340004</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +122,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="1.Dict" />
     <MESSAGE value="2.Shop List" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.Shop List" />
+    <MESSAGE value="3.Merger" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.Merger" />
   </component>
 </project>
